@@ -1,3 +1,2 @@
-![Uploading ダウンロード.gif…]()
 # Image-viewer
-
+![ダウンロード](https://user-images.githubusercontent.com/63177307/110241171-c14e0280-7f92-11eb-8619-f0615dbe755b.gif)
